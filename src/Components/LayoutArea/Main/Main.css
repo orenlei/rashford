@@ -1,0 +1,10 @@
+.Main {
+}
+.Main > .Clock {
+  position: absolute;
+  right: 1%;
+}
+.imgR>img {
+  height: 290px;
+  width: auto;
+}

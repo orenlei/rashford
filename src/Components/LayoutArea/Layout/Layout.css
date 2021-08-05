@@ -1,0 +1,38 @@
+.Layout{
+    height: 100%;
+    box-sizing: border-box; /*fix css size bugs*/
+    display: grid;
+    grid-template-rows: 10% 80% 10%;
+    grid-template-columns: repeat(6,1fr);/* fr = Fraction*/
+}
+
+.Layout > header, .Layout > footer{
+    grid-column: span 6;
+}
+
+.Layout > header, .Layout > footer{
+    background-color: black;
+    color:red
+}
+
+
+ .Layout > aside{
+    background-color: #C49451;
+    color: #F0D9E7;
+}
+.Layout > main {
+    grid-column: span 5;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items:center;
+    background: url(https://media.istockphoto.com/videos/abstract-background-video-id462883716?s=640x640);
+    background-size: cover;
+}
+
+.Layout,.Layout > *{
+    border: 1px solid black;
+}
