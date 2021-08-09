@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rashford/static/css/main.f7aa28fe.chunk.css",
+    "main.js": "/rashford/static/js/main.a3d86ae3.chunk.js",
+    "main.js.map": "/rashford/static/js/main.a3d86ae3.chunk.js.map",
+    "runtime-main.js": "/rashford/static/js/runtime-main.7989f44a.js",
+    "runtime-main.js.map": "/rashford/static/js/runtime-main.7989f44a.js.map",
+    "static/js/2.47d36bbf.chunk.js": "/rashford/static/js/2.47d36bbf.chunk.js",
+    "static/js/2.47d36bbf.chunk.js.map": "/rashford/static/js/2.47d36bbf.chunk.js.map",
+    "static/js/3.3511de2d.chunk.js": "/rashford/static/js/3.3511de2d.chunk.js",
+    "static/js/3.3511de2d.chunk.js.map": "/rashford/static/js/3.3511de2d.chunk.js.map",
+    "index.html": "/rashford/index.html",
+    "static/css/main.f7aa28fe.chunk.css.map": "/rashford/static/css/main.f7aa28fe.chunk.css.map",
+    "static/js/2.47d36bbf.chunk.js.LICENSE.txt": "/rashford/static/js/2.47d36bbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7989f44a.js",
+    "static/js/2.47d36bbf.chunk.js",
+    "static/css/main.f7aa28fe.chunk.css",
+    "static/js/main.a3d86ae3.chunk.js"
+  ]
+}
